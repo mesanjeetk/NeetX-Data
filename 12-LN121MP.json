@@ -11,14 +11,14 @@
               "duration": "45 min",
               "teacher": "Prof. X",
               "pdf": "https://yourusername.github.io/physics-resources/units.pdf",
-              "video": "https://www.youtube.com/watch?v=abc123"
+              "video": "https://youtu.be/8H23EL332ds?si=kwDHRTWSpAjuZo-h"
             },
             "L2": {
               "title": "Dimensional Analysis",
               "duration": "50 min",
               "teacher": "Prof. X",
               "pdf": "https://yourusername.github.io/physics-resources/dimensions.pdf",
-              "video": "https://www.youtube.com/watch?v=def456"
+              "video": "https://youtu.be/8H23EL332ds?si=kwDHRTWSpAjuZo-h"
             }
           }
         },
@@ -30,7 +30,7 @@
               "duration": "60 min",
               "teacher": "Prof. Y",
               "pdf": "https://yourusername.github.io/physics-resources/motion.pdf",
-              "video": "https://www.youtube.com/watch?v=ghi789"
+              "video": "https://youtu.be/8H23EL332ds?si=kwDHRTWSpAjuZo-h"
             }
           }
         }
@@ -47,7 +47,7 @@
               "duration": "55 min",
               "teacher": "Prof. Z",
               "pdf": "https://yourusername.github.io/chemistry-resources/atoms.pdf",
-              "video": "https://www.youtube.com/watch?v=xyz000"
+              "video": "https://youtu.be/8H23EL332ds?si=kwDHRTWSpAjuZo-h"
             }
           }
         }
