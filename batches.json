@@ -1,0 +1,12 @@
+{
+  "batches": {
+    "12-LN121MP": {
+      "name": "12th Grade - LN121MP",
+      "file": "12-LN121MP.json"
+    },
+    "11-LN122MP": {
+      "name": "11th Grade - LN122MP",
+      "file": "11-LN122MP.json"
+    }
+  }
+}
